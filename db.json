@@ -1,3 +1,4 @@
+{
 "kota" : [
 {"id":"5d4c419bfc13ae0534000000","kota":"Karanggayam","latitude":-7.5943369,"longtitude":109.5950412},
 {"id":"5d4c419bfc13ae0534000000","kota":"Kebumen","latitude":-7.6439184,"longtitude":109.4692366},
@@ -11,4 +12,5 @@
 {"id":"5d4c419bfc13ae0534000007","kota":"Shilovo","latitude":54.2637785,"longtitude":40.9511355},
 {"id":"5d4c419bfc13ae0534000008","kota":"Las Palmas","latitude":-9.385742,"longtitude":-76.0043731},
 {"id":"5d4c419bfc13ae0534000009","kota":"Xiaomei","latitude":36.386498,"longtitude":120.4393126}
-]
+] 
+}
