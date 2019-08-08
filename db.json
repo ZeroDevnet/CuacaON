@@ -1,14 +1,14 @@
 {
 "kota" : [
-{"id":"5d4c419bfc13ae0534000000","kota":"Karanggayam","latitude":-7.5943369,"longtitude":109.5950412},
-{"id":"5d4c419bfc13ae0534000001","kota":"Kebumen","latitude":-7.6439184,"longtitude":109.4692366},
-{"id":"5d4c419bfc13ae0534000002","kota":"Rosario","latitude":-34.5023286,"longtitude":-58.6661711},
-{"id":"5d4c419bfc13ae0534000003","kota":"Anolaima","latitude":4.761738,"longtitude":-74.464018},
-{"id":"5d4c419bfc13ae0534000004","kota":"Mirocin","latitude":50.043163,"longtitude":22.555595},
-{"id":"5d4c419bfc13ae0534000005","kota":"Yangwei","latitude":39.900314,"longtitude":116.40605},
-{"id":"5d4c419bfc13ae0534000006","kota":"Quisao","latitude":14.4392961,"longtitude":121.3345633},
-{"id":"5d4c419bfc13ae0534000007","kota":"Shilovo","latitude":54.2637785,"longtitude":40.9511355},
-{"id":"5d4c419bfc13ae0534000008","kota":"Las Palmas","latitude":-9.385742,"longtitude":-76.0043731},
-{"id":"5d4c419bfc13ae0534000009","kota":"Xiaomei","latitude":36.386498,"longtitude":120.4393126},
+{"id":"5d4c419bfc13ae0534000000","kota":"Karanggayam","latitude":"-7.5943369","longtitude":"109.5950412"},
+{"id":"5d4c419bfc13ae0534000001","kota":"Kebumen","latitude":"-7.6439184","longtitude":"109.4692366"},
+{"id":"5d4c419bfc13ae0534000002","kota":"Rosario","latitude":"-34.5023286","longtitude":"-58.6661711"},
+{"id":"5d4c419bfc13ae0534000003","kota":"Anolaima","latitude":"4.761738","longtitude":"-74.464018"},
+{"id":"5d4c419bfc13ae0534000004","kota":"Mirocin","latitude":"50.043163","longtitude":"22.555595"},
+{"id":"5d4c419bfc13ae0534000005","kota":"Yangwei","latitude":"39.900314","longtitude":"116.40605"},
+{"id":"5d4c419bfc13ae0534000006","kota":"Quisao","latitude":"14.4392961","longtitude":"121.3345633"},
+{"id":"5d4c419bfc13ae0534000007","kota":"Shilovo","latitude":"54.2637785","longtitude":"40.9511355"},
+{"id":"5d4c419bfc13ae0534000008","kota":"Las Palmas","latitude":"-9.385742","longtitude":"-76.0043731"},
+{"id":"5d4c419bfc13ae0534000009","kota":"Xiaomei","latitude":"36.386498","longtitude":"120.4393126"},
 ]
 }
